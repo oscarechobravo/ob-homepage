@@ -17,7 +17,7 @@ permalink: /projects
     {% for post in site.posts %}
 
         {% if post.categories.include?("project")  %}
-
+            
             {% if post.featured == true %}
 
                 {% include featuredbox.html %}
@@ -47,8 +47,8 @@ permalink: /projects
 
         {% for post in paginator.projects %}
 
-             {% if post.categories.include?("project")  %}
-
+            {% if post.categories.include?("project")  %}
+            <p>there's a project in dem woods</p>
             {% include postbox.html %}
             
             {% endif %}
