@@ -45,7 +45,7 @@ permalink: /projects
 
     <div class="row listrecent">
 
-        {% for post in paginator.projects %}
+        {% for post in paginator.posts %}
 
             {% if post.categories.include?("project")  %}
             <p>there's a project in dem woods</p>
