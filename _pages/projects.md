@@ -50,7 +50,7 @@ title: Projects
 
             {% include postbox.html %}
             
-            {% end if %}
+            {% endif %}
 
         {% endfor %}
 
