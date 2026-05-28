@@ -15,7 +15,7 @@ permalink: /projects
     <div class="row">
 
     {% for post in site.posts %}
-
+        {{ post.categories }}
         {% if post.categories.include?("project")  %}
             
             {% if post.featured == true %}
