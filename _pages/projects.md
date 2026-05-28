@@ -15,7 +15,7 @@ permalink: /projects
     <div class="row">
 
     {% for post in site.posts %}
-        {{ post.categories }}
+        
         {% if post.categories.include?("project")  %}
             
             {% if post.featured == true %}
@@ -46,7 +46,7 @@ permalink: /projects
     <div class="row listrecent">
 
         {% for post in paginator.posts %}
-
+            <p>{{ post.categories }}</p>
             {% if post.categories.include?("project")  %}
             <p>there's a project in dem woods</p>
             {% include postbox.html %}
