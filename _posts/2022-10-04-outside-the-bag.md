@@ -9,11 +9,11 @@ image: assets/images/booklet_mockups.png
 
 'Outside the Bag' is a booklet of provocative speculative designs, developed from a series of workshops with gig-working delivery couriers in Manchester and York. Each concept is related to specific aspects of this kind of work. They expose really interesting textural aspects of their work, their interaction with technology, customers, the city, the courier community and local infrastructure.
 
-![The Bag Goblin](/assets/img/bag-goblin.png){: width="auto" width="100%"} 
+![The Bag Goblin](/assets/images/bag-goblin.png){: width="auto" width="100%"} 
 
 Each design is accompanied by a short discussion that puts the design in context, and foregrounds the experiences and feelings of riders themselves. The designs are candid, often humorous but always thought provoking. The collected designs have been shared with industry, unions, and other organisations as a tool to help give richer picture of aspects of courier experience, and the frictions and joys in this kind of work. 
 
-![Ride or Wait Tarot](/assets/img/outside-bag-tarot.jpg){: width="auto" width="100%"}
+![Ride or Wait Tarot](/assets/images/outside-bag-tarot.jpg){: width="auto" width="100%"}
 
 The booklet is provided freely as a useful resource for educators, policymakers, activists and others, to help understand a couriers' eye view on this highly transient kind of work. It works well as part of a workshop on futures of work generally, the relation between work and the city, and the gig economy specifically. It is also self explanatory and can be part of a collection of exhibits on these topics, printed or shared as a PDF.
 
