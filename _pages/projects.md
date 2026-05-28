@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects
 ---
 
-{% if page.url == "/" %}
+{% if page.url != "/" %}
 
 <!-- Featured
 ================================================== -->
