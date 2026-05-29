@@ -5,6 +5,7 @@ author: "Oliver"
 categories: [outputs, project]
 tags: [outputs]
 image: assets/images/booklet_mockups.png
+portfolio: true
 ---
 
 'Outside the Bag' is a booklet of provocative speculative designs, developed from a series of workshops with gig-working delivery couriers in Manchester and York. Each concept is related to specific aspects of this kind of work. They expose really interesting textural aspects of their work, their interaction with technology, customers, the city, the courier community and local infrastructure.

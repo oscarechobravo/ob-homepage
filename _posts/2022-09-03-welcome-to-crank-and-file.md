@@ -5,6 +5,7 @@ author: "Oliver"
 categories: [documentation, project]
 tags: [about]
 image: assets/images/logo-square.png
+project: true
 ---
 
 Crank and File is a collection of critical design research led by [Oliver Bates](http://oliverbates.co.uk) and [Ben Kirman](http://ben.kirman.org).

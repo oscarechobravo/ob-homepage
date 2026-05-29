@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects
 ---
 
-{% if page.url != "/" %}
+{% if page.url == "/" %}
 
 <!-- Featured
 ================================================== -->
@@ -16,7 +16,7 @@ permalink: /projects
 
     {% for post in site.posts %}
         
-        {% if post.categories.include?("project")  %}
+        {% if post.portfolio == true  %}
             
             {% if post.featured == true %}
 
@@ -46,9 +46,8 @@ permalink: /projects
     <div class="row listrecent">
 
         {% for post in paginator.posts %}
-            <p>{{ post.categories }}</p>
-            {% if post.categories.include?("project")  %}
-            <p>there's a project in dem woods</p>
+            {% if post.portfolio == true %}
+            
             {% include postbox.html %}
             
             {% endif %}

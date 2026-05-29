@@ -2,9 +2,10 @@
 layout: post
 title: "Critical Tea Towels"
 author: "Oliver"
-categories: [outputs, project]
+categories: [ outputs, project ]
 tags: [outputs]
 image: assets/images/ourteatowels.jpg
+portfolio: true
 ---
 
 # Critical Tea Towels

@@ -7,6 +7,7 @@ tags: [red, yellow]
 image: assets/images/not_manky_tea_towels-web.jpeg
 description: "My review of Inception movie. Acting, plot and something else in this short description."
 hidden: false
+portfolio: true
 ---
 
 # Call for Tea Towels!
